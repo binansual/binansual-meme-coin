@@ -1,17 +1,13 @@
 {
-  "name": "flora-exception",
+  "name": "binansual-meme-coin",
   "version": "0.1.1",
   "description": "An exception system for FQL.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cntric/flora-exception"
+    "url": "https://github.com/binansual/binansual-meme-coin"
   },
   "keywords": [
-    "fauna",
-    "query",
-    "types",
-    "exception",
-    "fql"
+    "binance"
   ],
   "license": "MIT",
   "main": "dist/cjs/index.js",
@@ -43,7 +39,6 @@
     "typescript": "^4.4.2"
   },
   "dependencies": {
-    "faunadb": "^4.4.1",
     "node-machine-id": "^1.1.12",
     "random-word-slugs": "^0.1.6"
   }

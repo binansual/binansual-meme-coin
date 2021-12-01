@@ -1,4 +1,2 @@
-export * from "./Flora";
-export * from "./FloraTypes";
-export * from "./FloraMethods";
-export * from "./Deploy";
+"use strict";
+console.log("Welcome to binansual!");
